@@ -1,0 +1,5 @@
+The modeling results presented in Extended Data Fig.8 a,b,e were generated using the same analyses methods as the experimental data.
+
+ED fig 8a: refer to ED fig 4f.
+ED fig 8b: refer to ED fig 6a.
+ED fig 8e: refer to fig 4h.
