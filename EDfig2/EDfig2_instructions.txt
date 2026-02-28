@@ -1,0 +1,2 @@
+EDfig 2a,b: run plot_fig4c.m.
+fig 4f: run Plot_behavior_EDfig2ab.m.
