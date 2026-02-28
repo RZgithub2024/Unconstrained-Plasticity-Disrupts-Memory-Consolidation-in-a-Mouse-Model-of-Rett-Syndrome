@@ -1,0 +1,5 @@
+Before performing any analyses related to PC stability, run StableHistory_save_RZ.m first to acquire the PC stability (stable history) of every cell on each day.
+
+fig 4c: run plot_fig4c.m.
+fig 4f: run in_field_BTSP_StableHis_2.m and residue_15_StableHis_4_prevPF_aw_in_fig4e.m first, then run stBTSP_residue_corr_fig4f.m.
+fig 4j: run residue_7_nlaps_BTSP_corr_noisy_broken_fig4j.m first, then run StableHis_residue_corr_3_aw_fig4j.m.
