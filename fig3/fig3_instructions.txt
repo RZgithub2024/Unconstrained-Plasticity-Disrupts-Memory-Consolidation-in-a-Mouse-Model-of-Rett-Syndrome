@@ -1,0 +1,1 @@
+Fig 3e: first run PF_stability_eachday_backward_fig3d.m, then run stability_antici_lick_corr_mean_fig3e.m.
