@@ -1,0 +1,1 @@
+Fig 1b,c: run Plot_behavior_Nlaps_fig1bc.m.Fig 1d,e: run Plot_behavior_fig1de.m.Fig 1i top: run ActivityMaps_plot_fig1i_top.m.
