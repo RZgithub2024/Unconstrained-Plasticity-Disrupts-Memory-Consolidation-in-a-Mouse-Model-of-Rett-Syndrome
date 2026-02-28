@@ -1,0 +1,3 @@
+Before performing BTSP-related analyses, run BTSPstats_8_250722.m and BTSP_cells_8_250722.m to detect BTSP events.
+Fig 2c,d,e,f: run plot_fig2cdef.m.
+
